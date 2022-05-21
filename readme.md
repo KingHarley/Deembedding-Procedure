@@ -1,4 +1,6 @@
-This project contains a jupyter notebook file which was contains the code which was used to de-embed the raw experimental data.
+`Excitation and reception of magnetostatic surface spin waves in thin conducting ferromagnetic films by coplanar microwave antennas. Part II: Experiment`
+
+This project contains a jupyter notebook file which contains the code which was used to de-embed the raw experimental data.
 
 The data used for the de-embedding is also provided and is located in the `Data` folder. 
 
